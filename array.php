@@ -32,8 +32,8 @@
     
     <?php
       for ($i = 51; $i => 100; $i++) {
-        echo $i
-        echo '<br>'
+        echo $i;
+        echo '<br>';
       }
     ?>
   </body>
